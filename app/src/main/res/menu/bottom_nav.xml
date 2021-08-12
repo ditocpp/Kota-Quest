@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/h1"
+        android:title="Quest List"
+        android:icon="@drawable/logokq"/>
+    <item
+        android:id="@+id/h2"
+        android:title="Active Quests"
+        android:icon="@drawable/logokq"/>
+    <item
+        android:id="@+id/h3"
+        android:title="Posted Quests"
+        android:icon="@drawable/logokq"/>
+</menu>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "707484987537",
+    "project_id": "kota-quest",
+    "storage_bucket": "kota-quest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707484987537:android:64ebeaad64092454ff0f30",
+        "android_client_info": {
+          "package_name": "org.netizencoders.kotaquest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707484987537-8n8qdobqj2ojjobcs1lqejnudtt4fo6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.netizencoders.kotaquest",
+            "certificate_hash": "467c66749e6747297d832f558cf023dcd745d9c0"
+          }
+        },
+        {
+          "client_id": "707484987537-jss0re8cje6mgi7tipp5immtfrjpvg69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5wBmGXmbsSlry9RRGaMsEEIy9D6HPpTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707484987537-jss0re8cje6mgi7tipp5immtfrjpvg69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

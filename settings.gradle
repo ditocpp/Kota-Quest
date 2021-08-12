@@ -1,0 +1,2 @@
+rootProject.name = "Kota Quest"
+include ':app'

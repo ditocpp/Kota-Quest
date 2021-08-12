@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kota Quest</string>
+    <string name="quest_list_label">Quest List</string>
+    <string name="no_data_label">Tidak ada data</string>
+    <string name="new_quest_label">Post a Quest</string>
+    <string name="new_quest_title">Title</string>
+    <string name="new_quest_location">Location</string>
+    <string name="new_quest_description">Description</string>
+    <string name="new_quest_choose">Choose</string>
+    <string name="new_quest_continue">Continue</string>
+    <string name="new_quest_image_label">Picture:</string>
+    <string name="new_quest_cancel">Cancel</string>
+    <string name="quests_taken_label">Active Quests</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
